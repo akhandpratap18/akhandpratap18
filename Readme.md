@@ -9,6 +9,10 @@
 
 - 📫 How to reach me **akhandpratapsingh1817@gmail.com**
 
+<p>
+  <img src="https://api.vaunt.dev/v1/github/entities/AkGITS182/achievements?format=svg&limit=3" width="350" />
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
