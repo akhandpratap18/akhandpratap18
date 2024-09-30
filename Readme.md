@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AkGITS182" alt="AkGITS182" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/utkarsh908" target="blank"><img src="https://img.shields.io/twitter/follow/utkarsh908?logo=twitter&style=for-the-badge" alt="utkarsh908" /></a> </p>
-
 - 🌱 I’m currently learning **DSA** & **WebDev**
 
 - 📫 How to reach me **akhandpratapsingh1817@gmail.com**
