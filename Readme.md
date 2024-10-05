@@ -21,7 +21,7 @@
 <ul>
   <li>🌱 I’m currently learning **DSA** & WebDev.</li>
   <li>👀 I’m interested in learning about GenAI Models,RAG's & LLM's</li>
-  <li>🚀 Open Source Contributor at GSSOC'24 and Hacktoberfest'24.</li>
+  <li>🚀 Open Source Contributor at GSSOC'24 and Hacktoberfest'24:octocat:</li>
   <li>📫 How to reach me akhandpratapsingh1817@gmail.com🛠️</li>
      
 </ul>
@@ -33,7 +33,7 @@
 
 <a href="https://leetcode.com/u/akhandpratapsingh18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AkGITS182" height="30" width="40" /></a>
 </p>
-[[Vaunt Community](https://api.vaunt.dev/v1/github/entities/AkGITS182/badges/community)](https://community.vaunt.dev/board/AkGITS182)
+[[Vaunt Community]<a href = "https://api.vaunt.dev/v1/github/entities/AkGITS182/badges/community" src ="https://community.vaunt.dev/board/AkGITS182"/></a>
 
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38">**Languages & Tools**</h2>
