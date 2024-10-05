@@ -7,9 +7,8 @@
 <img  src="https://readme-typing-svg.herokuapp.com?color=45ffaa&center=true&vCenter=true&size=40&width=900&height=80&lines=Welcome+to+My+Profile!"/>
 </div>
 
- <h2>Hi there,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" /> Enjoy the World of Open source contribution <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"> </h2>
+ <h2>Hi there,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" /> I am Akhand Pratap Singh, an aspiring Software developer🤖<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"> </h2>
 
-<p>Hello Coders!!👨‍💻<br> I am Akhand Pratap Singh, an aspiring Software developer🤖.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhandpratap18&label=Profile%20views&color=0e75b6&style=flat" alt="akhandpratap18" /> </p>
 
@@ -19,9 +18,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 <h2>ME📌</h2>
 <ul>
-  <li>🌱 I’m currently learning **DSA** & WebDev.</li>
+  <li>🌱 I’m currently learning DSA & WebDev.</li>
   <li>👀 I’m interested in learning about GenAI Models,RAG's & LLM's</li>
-  <li>🚀 Open Source Contributor at GSSOC'24 and Hacktoberfest'24:octocat:</li>
+  <li>🚀 Open Source Contributor at GSSOC'24 and Hacktoberfest'24 :octocat:<br /> </li>
   <li>📫 How to reach me akhandpratapsingh1817@gmail.com🛠️</li>
      
 </ul>
