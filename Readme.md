@@ -1,6 +1,6 @@
 <!-- This is a web text editor that is made using canvas element of Html. -->
 
-# <p align="center" id="top">🎨 Akhand Pratap Singh 🖌️</p>
+# <p align="center" id="top"> Akhand Pratap Singh </p>
 <p align="center">
    
 <div align="center"> 
@@ -19,10 +19,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 <h2>ME📌</h2>
 <ul>
-  <li>🌱 I’m currently learning **DSA** & **WebDev**.</li>
-  <li>👀 I’m interested in learning about **GenAI Models,RAG's & LLM's**</li>
+  <li>🌱 I’m currently learning **DSA** & WebDev.</li>
+  <li>👀 I’m interested in learning about GenAI Models,RAG's & LLM's</li>
   <li>🚀 Open Source Contributor at GSSOC'24 and Hacktoberfest'24.</li>
-  <li>📫 How to reach me **akhandpratapsingh1817@gmail.com**🛠️</li>
+  <li>📫 How to reach me akhandpratapsingh1817@gmail.com🛠️</li>
      
 </ul>
 
@@ -33,7 +33,7 @@
 
 <a href="https://leetcode.com/u/akhandpratapsingh18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AkGITS182" height="30" width="40" /></a>
 </p>
-[![Vaunt Community](https://api.vaunt.dev/v1/github/entities/AkGITS182/badges/community)](https://community.vaunt.dev/board/AkGITS182)
+[[Vaunt Community](https://api.vaunt.dev/v1/github/entities/AkGITS182/badges/community)](https://community.vaunt.dev/board/AkGITS182)
 
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38">**Languages & Tools**</h2>
