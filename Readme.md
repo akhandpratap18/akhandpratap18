@@ -4,15 +4,7 @@
 
 <hr>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=akhandpratap18" alt="akhandpratap18" />
-  </a>
-</p>
 
-
-<!--Line-->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 <h2>ME📌</h2>
 <ul>
   <li>🌱 I’m currently learning DSA & WebDev.</li>
@@ -30,7 +22,15 @@
 <a href="https://leetcode.com/u/akhandpratapsingh18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AkGITS182" height="30" width="40" /></a>
 </p>
 
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=akhandpratap18" alt="akhandpratap18" />
+  </a>
+</p>
 
+
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38">Languages & Tools</h2>
