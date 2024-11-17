@@ -1,11 +1,6 @@
 <!-- This is a web text editor that is made using canvas element of Html. -->
 
-# <p align="center" id="top"> Akhand Pratap Singh </p>
-<p align="center">
-   
-
-
- <h2>Hi there,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" /> I am Akhand Pratap Singh, an aspiring Software developer🤖<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"> </h2>
+ <h2>Hi there,I am Akhand Pratap Singh, an aspiring Software developer🤖
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhandpratap18" alt="akhandpratap18" /></a> </p>
