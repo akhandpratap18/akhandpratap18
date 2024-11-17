@@ -3,14 +3,10 @@
 # <p align="center" id="top"> Akhand Pratap Singh </p>
 <p align="center">
    
-<div align="center"> 
-<img  src="https://readme-typing-svg.herokuapp.com?color=45ffaa&center=true&vCenter=true&size=40&width=900&height=80&lines=Welcome+to+My+Profile!"/>
-</div>
+
 
  <h2>Hi there,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" /> I am Akhand Pratap Singh, an aspiring Software developer🤖<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"> </h2>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhandpratap18&label=Profile%20views&color=0e75b6&style=flat" alt="akhandpratap18" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhandpratap18" alt="akhandpratap18" /></a> </p>
 
@@ -32,9 +28,7 @@
 
 <a href="https://leetcode.com/u/akhandpratapsingh18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AkGITS182" height="30" width="40" /></a>
 </p>
-<a href="https://api.vaunt.dev/v1/github/entities/AkGITS182/badges/community" target="_blank">
-  Check out my Vaunt Community Badges!
-</a>
+
 
 
 
